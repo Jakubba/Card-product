@@ -4,6 +4,8 @@
 
 **Card-product** to prosta aplikacja webowa prezentująca kartę produktową butów z wieloma wariantami kolorystycznymi i rozmiarowymi. Projekt powstał w celach naukowych i testowych, aby przećwiczyć budowę interaktywnego komponentu produktowego z wykorzystaniem nowoczesnych technologii frontendowych.
 
+**Live website:** [https://jakubba.github.io/Card-product/](https://jakubba.github.io/Card-product/)
+
 Aplikacja umożliwia:
 
 - Przeglądanie różnych wariantów produktu (kolory, rozmiary, szerokości, toe+heel)
