@@ -1,0 +1,212 @@
+{
+  "variants": [
+    {
+      "color": "Gliz Cream",
+      "title": "Priscilla Suede - Gliz Cream",
+      "price": "$119.00",
+      "index": "STYLE NO.N4831.54-1521-B-6",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/glitz-cream/N4831.54-1521_Angle_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream/N4831.54-1521_Back_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream/N4831.54-1521_Front_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream/N4831.54-1521_Pair_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream/N4831.54-1521_Right_2000x.jpg",
+        "./assets/images-product/boots/glitz-cream/N4831.54-1521_Sole_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream/N4831.54-1521_Swatch_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream/N4831.54-1521_Vamp_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream/priscilla-glitz-cream__0-0__2__Glitz_wide_calf_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream/priscilla-glitz-cream__0-0__9__N4831.54_Swatch_2048x.jpg"
+      ],
+      "sizes": ["4", "6", "6.5", "7", "8"],
+      "widths": ["B", "C"],
+      "toeHeel": ["S5 + 4", "S6 + 5"]
+    },
+    {
+      "color": "Priscilla Red",
+      "title": "Priscilla Suede - Red",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/red/N4830.54-6010_Angle_927d9d6c-46a9-4ecb-b0cb-dfb2504b452f_2048x.jpg",
+        "./assets/images-product/boots/red/N4830.54-6010_Back_e9b97f79-47a9-43d8-bb32-38bf99006379_2048x.jpg",
+        "./assets/images-product/boots/red/N4830.54-6010_Front_40d2dc43-dbda-415d-b71b-c869b2440443_2048x.jpg",
+        "./assets/images-product/boots/red/N4830.54-6010_Right_91926abf-4f85-4aaa-847a-614881476036_2048x.jpg",
+        "./assets/images-product/boots/red/N4830.54-6010_Sole_51a50898-ff9d-49d5-9750-7bbf675f5751_2048x.jpg",
+        "./assets/images-product/boots/red/N4830.54-6010_Swatch_2048x.jpg",
+        "./assets/images-product/boots/red/N4830.54-6010_Vamp_2048x.jpg",
+        "./assets/images-product/boots/red/N4987.54-6010_Angle_f6b570b5-3f97-4000-8df4-fdb59a8a2f47_2048x.jpg",
+        "./assets/images-product/boots/red/N4987.54-6010_Pair_a64635e0-6111-4669-a723-51111b8725f6_2048x.jpg"
+      ]
+    },
+    {
+      "color": "Black",
+      "title": "Priscilla Suede - Black",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/black/GY4581S54-1001_Angle_2048x.jpg",
+        "./assets/images-product/boots/black/GY4581S54-1001_Back_2048x.jpg",
+        "./assets/images-product/boots/black/GY4581S54-1001_Front_2048x.jpg",
+        "./assets/images-product/boots/black/GY4581S54-1001_Pair_2048x.jpg",
+        "./assets/images-product/boots/black/GY4581S54-1001_Side_2048x.jpg",
+        "./assets/images-product/boots/black/GY4581S54-1001_Sole_2048x.jpg",
+        "./assets/images-product/boots/black/GY4581S54-1001_Swatch_2048x.jpg",
+        "./assets/images-product/boots/black/GY4581S54-1001_Vamp_2048x.jpg"
+      ],
+      "sizes": ["4", "6", "6.5", "7", "8"],
+      "widths": ["B", "C"],
+      "toeHeel": ["S5 + 4", "S6 + 5"]
+    },
+    {
+      "color": "Brown",
+      "title": "Priscilla Suede - Brown",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/brown/GY4580.S54-2009_Angle_2048x.jpg",
+        "./assets/images-product/boots/brown/GY4580.S54-2009_Back_2048x.jpg",
+        "./assets/images-product/boots/brown/GY4580.S54-2009_Front_2048x.jpg",
+        "./assets/images-product/boots/brown/GY4580.S54-2009_Pair_2048x.jpg",
+        "./assets/images-product/boots/brown/GY4580.S54-2009_Right_2048x.jpg",
+        "./assets/images-product/boots/brown/GY4580.S54-2009_Sole_2048x.jpg",
+        "./assets/images-product/boots/brown/GY4580.S54-2009_Swatch_2048x.jpg",
+        "./assets/images-product/boots/brown/GY4580.S54-2009_Vamp_2048x.jpg"
+      ],
+      "sizes": ["4", "6", "6.5", "7", "8"],
+      "widths": ["B", "C"],
+      "toeHeel": ["S5 + 4", "S6 + 5"]
+    },
+    {
+      "color": "Espresso",
+      "title": "Priscilla Suede - Espresso",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/expresso/GY4579.S54_Angle_2048x.jpg",
+        "./assets/images-product/boots/expresso/GY4579.S54_Back_2048x.jpg",
+        "./assets/images-product/boots/expresso/GY4579.S54_Front_2048x.jpg",
+        "./assets/images-product/boots/expresso/GY4579.S54_Pair_2048x.jpg",
+        "./assets/images-product/boots/expresso/GY4579.S54_Right_2048x.jpg",
+        "./assets/images-product/boots/expresso/GY4579.S54_Sole_2048x.jpg",
+        "./assets/images-product/boots/expresso/GY4579.S54_Swatch_2048x.jpg",
+        "./assets/images-product/boots/expresso/GY4579.S54_Vamp_2048x.jpg"
+      ],
+      "sizes": ["5", "6", "7", "8"],
+      "widths": ["B"],
+      "toeHeel": ["S5 + 4"]
+    },
+    {
+      "color": "Crinkle Patent Black",
+      "title": "Priscilla Suede - Crinkle Patent Black",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/crinkle-patent-black/2635fd38-260a-427a-9339-5af5f8916628_2048x.jpg",
+        "./assets/images-product/boots/crinkle-patent-black/427e7fc6-0bd6-4d6b-b202-a9b215141edd_2048x.jpg",
+        "./assets/images-product/boots/crinkle-patent-black/686d9f4c-d57a-4622-a12e-13023ad1ca60_2048x.jpg",
+        "./assets/images-product/boots/crinkle-patent-black/a9eae111-a93c-4bf9-8376-81bcb397215c_2048x.jpg",
+        "./assets/images-product/boots/crinkle-patent-black/acd76ee8-51fe-4224-9675-c7162cf4f93f_2048x.jpg",
+        "./assets/images-product/boots/crinkle-patent-black/c01303e7-78f7-4b1e-a73b-c6eea59b3a39_2048x.jpg",
+        "./assets/images-product/boots/crinkle-patent-black/c35501d1-e18e-401f-9747-48ab1be97094_2048x.jpg",
+        "./assets/images-product/boots/crinkle-patent-black/d4f23343-7820-4ee5-a456-39871fc1bea5_2048x.jpg"
+      ],
+      "sizes": ["5", "6", "7", "8"],
+      "widths": ["B"],
+      "toeHeel": ["S5 + 4"]
+    },
+    {
+      "color": "Emerald",
+      "title": "Priscilla Suede - Emerald",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/emerald/N4975.54-4020_Angle_2048x.jpg",
+        "./assets/images-product/boots/emerald/N4975.54-4020_Back_2048x.jpg",
+        "./assets/images-product/boots/emerald/N4975.54-4020_Front_2048x.jpg",
+        "./assets/images-product/boots/emerald/N4975.54-4020_Right.jpgcopy_2048x.jpg",
+        "./assets/images-product/boots/emerald/N4975.54-4020_Sole_2048x.jpg",
+        "./assets/images-product/boots/emerald/N4975.54-4020_Swatch_2048x.jpg",
+        "./assets/images-product/boots/emerald/N4975.54-4020_Toe_2048x.jpg",
+        "./assets/images-product/boots/emerald/N4997.54-4020_Pair_2048x.jpg"
+      ],
+      "sizes": ["5", "6", "7", "8"],
+      "widths": ["B"],
+      "toeHeel": ["S5 + 4"]
+    },
+    {
+      "color": "Red Luster",
+      "title": "Priscilla Suede - Red Luster",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/red-luster/N5006.54-6010_Angle_2048x.jpg",
+        "./assets/images-product/boots/red-luster/N5006.54-6010_Back_2048x.jpg",
+        "./assets/images-product/boots/red-luster/N5006.54-6010_Front_2048x.jpg",
+        "./assets/images-product/boots/red-luster/N5006.54-6010_Pair_2048x.jpg",
+        "./assets/images-product/boots/red-luster/N5006.54-6010_Side_2048x.jpg",
+        "./assets/images-product/boots/red-luster/N5006.54-6010_Sole_2048x.jpg",
+        "./assets/images-product/boots/red-luster/N5006.54-6010_Swatch_2048x.jpg",
+        "./assets/images-product/boots/red-luster/N5006.54-6010_Vamp_2048x.jpg"
+      ],
+      "sizes": ["5", "6", "7", "8"],
+      "widths": ["B"],
+      "toeHeel": ["S5 + 4"]
+    },
+    {
+      "color": "Glitz Cream W/ Burnt Orange Stitching",
+      "title": "Priscilla Suede - Glitz Cream W/ Burnt Orange Stitching",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/glitz-cream-w-burnt-orange-stitching/N501154_Angle_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-burnt-orange-stitching/N501154_Back_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-burnt-orange-stitching/N501154_Front_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-burnt-orange-stitching/N501154_Pair_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-burnt-orange-stitching/N501154_Right_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-burnt-orange-stitching/N501154_Swatch_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-burnt-orange-stitching/N501154_Vamp_2048x.jpg"
+      ],
+      "sizes": ["5", "6", "7", "8"],
+      "widths": ["B"],
+      "toeHeel": ["S5 + 4"]
+    },
+    {
+      "color": " Glitz Cream W/ Maroon Stitching",
+      "title": "Priscilla Suede -  Glitz Cream W/ Maroon Stitching",
+      "price": "$129.00",
+      "index": "STYLE NO.GY4579.S54-2019-B-7",
+      "description": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is... ",
+      "description-full": "Our No. 1 bestselling boot for women, Priscilla walks an elegant line between timeless classic and cowgirl chic. The vintage-inspired Tioga stitch pattern harks back to yesteryear, but Priscilla is a boot built for today. This knee-skimming, pull-on silhouette handcrafted from supple Old English goat leather deserves the spotlight under dresses and over jeans. Handmade in Texas.",
+      "images": [
+        "./assets/images-product/boots/glitz-cream-w-maroon-stitching/N501254_Angle_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-maroon-stitching/N501254_Back_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-maroon-stitching/N501254_Front_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-maroon-stitching/N501254_Pair_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-maroon-stitching/N501254_Right_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-maroon-stitching/N501254_Swatch_2048x.jpg",
+        "./assets/images-product/boots/glitz-cream-w-maroon-stitching/N501254_Vamp_2048x.jpg"
+      ],
+      "sizes": ["5", "6", "7", "8"],
+      "widths": ["B"],
+      "toeHeel": ["S5 + 4"]
+    }
+  ]
+}
